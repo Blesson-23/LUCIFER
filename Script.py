@@ -7,8 +7,26 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 ⚠️More Help Check Help Button Below
 
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """🙋🏻‍♂️   Hellooo   {}🤓
+
+○  <b>it's Note Complicated...🤓</b>
+
+○  <b>Search using inline mode
+This methord works on any chat, Just type @M_filter_bot and then leave a space and search any movie you want...</b>
+
+○ Available Commands
+     
+ /start - Check I'm Alive..
+ /info - User info 
+ /id - User id
+ /broadcast - Broadcast (owner only)
+ /stats - Db status  (owner only )
+
+○ Notice 📙:-
+
+○Dont Spam Me...🤒
+
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>"""
     ABOUT_TXT = """ IAM JUST A  Auto-Filter-Bot 🚶‍♂️⚠️
 ➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : {}
 ➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>
