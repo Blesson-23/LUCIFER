@@ -14,7 +14,7 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 ○  <b>Search using inline mode
 This methord works on any chat, Just type @M_filter_bot and then leave a space and search any movie you want...</b>
 
-○ Available Commands
+○ <b><u>Available Commands</b></u>
      
  /start - Check I'm Alive..
  /info - User info 
@@ -22,7 +22,7 @@ This methord works on any chat, Just type @M_filter_bot and then leave a space a
  /broadcast - Broadcast (owner only)
  /stats - Db status  (owner only )
 
-○ Notice 📙:-
+○ <b><u>Notice 📙:-</b></u>
 
 ○Dont Spam Me...🤒
 
