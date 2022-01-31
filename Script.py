@@ -11,13 +11,12 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """ IAM JUST A  Auto-Filter-Bot 🚶‍♂️⚠️
 ➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : {}
-➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]
+➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>
 ➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : Everyone in this journey
-➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : 𝑷ʏʀᴏɢʀᴀᴍ 📜
+➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href=https://docs.pyrogram.org/>𝑷ʏʀᴏɢʀᴀᴍ 📜</a>
 ➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : 𝑷ʏᴛʜᴏɴ 3
-➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : 𝑴ᴏɴɢᴏ 𝑫ʙ
-➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : 𝑯ᴇʀᴏᴋᴜ
-➪ 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 : 👉 𝑪ʟɪᴄᴋ 𝑯ᴇʀᴇ
+➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : <a href=https://www.mongodb.com/>𝑴ᴏɴɢᴏ 𝑫ʙ</a>
+➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href=https://dashboard.heroku.com/apps>𝑯ᴇʀᴏᴋᴜ</a>
 ➪ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔 : v1.0.1 [ 𝑩ᴇᴛᴀ ]
 
 
