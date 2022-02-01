@@ -90,7 +90,7 @@ Song Download Module, For Those Who Love Music
 <b>🎈 Command 🎈</b>
 
 - /song [Song Name] - To Download Music 😁
-    CONNECTION_TXT = """Help: <b>Connections</b>
+    CONNECTION_TXT = ""help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
 - it helps to avoid spamming in groups.
