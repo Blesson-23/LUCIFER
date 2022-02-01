@@ -13,3 +13,4 @@ wget
 youtube-search-python==1.4.6
 youtube_search
 yt-dlp
+youtube-dl
