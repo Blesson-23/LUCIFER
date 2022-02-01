@@ -23,7 +23,19 @@ class script(object):
 ○ <b><u>Notice 📙:-</b></u>
 
 ○Dont Spam Me...🤒
+    SONG_TXT = ""<b>🎼Song Download🎼</b>
 
+Song Download Module, For Those Who Love Music
+
+<b>🎈 Command 🎈</b>
+
+- /song [Song Name] - To Download Music 😁
+
+<b>🌀Usage🌀</b>
+
+- Can Be Used By Everyone
+
+- Works in bot pm
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>"""
     ABOUT_TXT = """ 𝐌𝐲 𝐍𝐚𝐦𝐞 : {}
 
