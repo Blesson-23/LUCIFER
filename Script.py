@@ -27,18 +27,24 @@ This methord works on any chat, Just type @M_filter_bot and then leave a space a
 ○Dont Spam Me...🤒
 
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>"""
-    ABOUT_TXT = """ IAM JUST A  Auto-Filter-Bot 🚶‍♂️⚠️
-➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : {}
-➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>
-➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : Everyone in this journey
-➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href=https://docs.pyrogram.org/>𝑷ʏʀᴏɢʀᴀᴍ 📜</a>
-➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : 𝑷ʏᴛʜᴏɴ 3
-➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : <a href=https://www.mongodb.com/>𝑴ᴏɴɢᴏ 𝑫ʙ</a>
-➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href=https://dashboard.heroku.com/apps>𝑯ᴇʀᴏᴋᴜ</a>
-➪ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔 : v1.0.1 [ 𝑩ᴇᴛᴀ ]
+    ABOUT_TXT = """ 𝐌𝐲 𝐍𝐚𝐦𝐞 : {}
 
+🐇 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>
 
-🔖 𝑸𝒖𝒐𝒕𝒆 : ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും"""
+🕊𝐂𝐫𝐞𝐝𝐢𝐭𝐬 : 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐢𝐧 𝐭𝐡𝐢𝐬
+ 𝐣𝐨𝐮𝐫𝐧𝐞𝐲
+
+🕊 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : 𝐏𝐲𝐭𝐡𝐨𝐧3
+
+🕊 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐚𝐬𝐲𝐧𝐜𝐢𝐨 0.17.1
+
+🕊 𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐝 𝐒𝐢𝐭𝐞 : 𝐎𝐧𝐥𝐲 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦
+
+🕊 𝐒𝐞𝐫𝐯𝐞𝐫 : 𝐇𝐞𝐫𝐨𝐤𝐮
+
+🕊 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 : 𝐌𝐨𝐧𝐠𝐨𝐃𝐁
+
+🕊 𝐁𝐮𝐢𝐥𝐝 𝐒𝐭𝐚𝐭𝐮𝐬 : 𝐕2.1 [𝐁𝐄𝐓𝐀]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - LUCIFER is a open source project. 
 - Source - https://github.com/Akbotmakersnew/LUCIFER  
