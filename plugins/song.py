@@ -98,7 +98,7 @@ def a(client, message):
 
             #     return
 
-            performer = f"[@Lucifer_DevilZ]"
+            performer = f"[Yorrichi]"
 
             thumb_name = f'thumb{message.message_id}.jpg'
 
