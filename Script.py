@@ -83,6 +83,13 @@ class script(object):
 2. make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
+    SONG_TXT = """<b>🎼Song Download🎼</b>
+
+Song Download Module, For Those Who Love Music
+
+<b>🎈 Command 🎈</b>
+
+- /song [Song Name] - To Download Music 😁
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
