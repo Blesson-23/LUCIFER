@@ -11,3 +11,4 @@ aiofiles
 aiohttp==3.7.4
 wget
 youtube-search-python==1.4.6
+youtube_search
