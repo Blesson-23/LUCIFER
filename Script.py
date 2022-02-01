@@ -11,11 +11,6 @@ class script(object):
 
     HELP_TXT = """🙋🏻‍♂️   Hellooo   {}🤓
 
-○  <b>it's Note Complicated...🤓</b>
-
-○  <b>Search using inline mode
-This methord works on any chat, Just type @M_filter_bot and then leave a space and search any movie you want...</b>
-
 ○ <b><u>Available Commands</b></u>
      
  /start - Check I'm Alive..
