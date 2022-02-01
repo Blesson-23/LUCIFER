@@ -414,7 +414,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "help":
         buttons = [[
             InlineKeyboardButton('Back', callback_data='start'),
-            InlineKeyboardButton('Sᴏɴɢ  🎶', callback_data='songs'),
+            InlineKeyboardButton('Sᴏɴɢ  🎶', callback_data='song_txt'),
         ]]    
         
             
