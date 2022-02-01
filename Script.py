@@ -19,6 +19,7 @@ class script(object):
  /broadcast - Broadcast (owner only)
  /stats - Db status  (owner only )
 /song (song name) - For Songs
+
 ○ <b><u>Notice 📙:-</b></u>
 
 ○Dont Spam Me...🤒
