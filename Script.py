@@ -1,12 +1,10 @@
 class script(object):
-    START_TXT = """
-𝐘𝐨..𝐘𝐨..{} 🙋, I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group ....
+    START_TXT = """𝐇𝐞𝐲 {}
 
-Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓
+⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 yorrichi 
 
-⚠️More Help Check Help Button Below
+⎆𝐈 𝐀𝐦 𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭."""
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>"""
     HELP_TXT = """🙋🏻‍♂️   Hellooo   {}🤓
 
 ○  <b>it's Note Complicated...🤓</b>
