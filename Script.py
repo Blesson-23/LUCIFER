@@ -96,7 +96,7 @@ Song Download Module, For Those Who Love Music
 2. make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
-    SONG_TXT = """<b>🎼Song Download🎼</b>
+    SONG_TXT = """Help : <b>🎼Song Download🎼</b>
 
 Song Download Module, For Those Who Love Music
 
