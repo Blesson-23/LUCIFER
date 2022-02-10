@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """𝐇𝐞𝐲 {}
 
-⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 yorrichi 
+⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 Emma
 
 ⎆𝐈 𝐀𝐦 𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭
 
@@ -17,7 +17,7 @@ class script(object):
  /info - User info 
  /id - User id
  /broadcast - Broadcast (owner only)
- /stats - Db status  (owner only )
+ /stats - Db status  (pm only )
 /song (song name) - For Songs
 
 ○ <b><u>Notice 📙:-</b></u>
@@ -39,7 +39,7 @@ Song Download Module, For Those Who Love Music
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>"""
     ABOUT_TXT = """ 𝐌𝐲 𝐍𝐚𝐦𝐞 : {}
 
-🐇 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>
+🐇 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : <a href=https://t.me/@Monuten007>Copycat</a>
 
 🕊𝐂𝐫𝐞𝐝𝐢𝐭𝐬 : 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐢𝐧 𝐭𝐡𝐢𝐬
  𝐣𝐨𝐮𝐫𝐧𝐞𝐲
