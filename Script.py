@@ -39,10 +39,9 @@ Song Download Module, For Those Who Love Music
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>"""
     ABOUT_TXT = """ 𝐌𝐲 𝐍𝐚𝐦𝐞 : {}
 
-🐇 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : <a href=https://t.me/@Monuten007>Copycat</a>
+🐇 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>
 
-🕊𝐂𝐫𝐞𝐝𝐢𝐭𝐬 : 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐢𝐧 𝐭𝐡𝐢𝐬
- 𝐣𝐨𝐮𝐫𝐧𝐞𝐲
+🕊 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 : <a href=https://t.me/blesson_3>ᴍʀ ᴍᴀᴋʀɪ [ᴏɴʟɪɴᴇ]</a>
 
 🕊 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : 𝐏𝐲𝐭𝐡𝐨𝐧3
 
